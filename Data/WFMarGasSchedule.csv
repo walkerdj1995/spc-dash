@@ -1,0 +1,60 @@
+ID,Process_Time,Site,LatLon,Skill_Req,Plant Type,Description,Engineer,Day_Sched,Start_min
+INS262885,1,CAS.Fairburn View Primary School (1628),"53.726479, -1.318598",gas,34.01D,Gas Catering Servicing (6 monthly),Engineer 0,16/03/2020,12:45:00
+INS269360,0.5,CAS.Fairburn View Primary School (1628),"53.726479, -1.318598",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,16/03/2020,12:15:00
+INS230974,1,CAS.Oyster Park Airedale Academies Trust,"53.728717, -1.306853",gas,34.01A,Gas Servicing (Annual),Engineer 0,16/03/2020,11:12:00
+INS231263,0.5,CAS.Oyster Park Airedale Academies Trust,"53.728717, -1.306853",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,16/03/2020,10:42:00
+INS252395,1,CAS.Oyster Park Airedale Academies Trust,"53.728717, -1.306853",gas,34.01C,Gas Catering Servicing (Annual),Engineer 0,16/03/2020,09:42:00
+INS260652,1,"FEA.All Saints Featherstone CE (VA) J&I School (1701)
+NO ACCESS GROUND FLOOR CEILING VOIDS AND ROOF TOP TANK ROOMS - ASBESTOS","53.693982, -1.358633",gas,34.01D,Gas Catering Servicing (6 monthly),Engineer 0,16/03/2020,08:31:00
+INS272038,0.5,"FEA.All Saints Featherstone CE (VA) J&I School (1701)
+NO ACCESS GROUND FLOOR CEILING VOIDS AND ROOF TOP TANK ROOMS - ASBESTOS","53.693982, -1.358633",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,16/03/2020,08:01:00
+INS269688,0.5,FEA.FEATHERSTONE SPORTS COMPLEX & ASSOCIATED LAND,"53.675755, -1.342750",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,13/03/2020,14:42:00
+INS260230,1,HEM.Hemsworth Grove Lea Primary School (1809),"53.610515, -1.349044",gas,34.01D,Gas Catering Servicing (6 monthly),Engineer 0,13/03/2020,13:31:00
+INS260862,1,HEM.Hemsworth Grove Lea Primary School (1809),"53.610515, -1.349044",gas,34.01D,Gas Catering Servicing (6 monthly),Engineer 0,13/03/2020,12:31:00
+INS243183,1,NOR.TOWN HALL AND PINDERS LODGE SITE (Note ** Pinders lodge vacant**),"53.700467, -1.416900",gas,34.01A,Gas Servicing (Annual),Engineer 0,13/03/2020,10:01:00
+INS252400,1,NOR.WOODHOUSE BUSINESS CENTRE,"53.692131, -1.423036",gas,34.01A,Gas Servicing (Annual),Engineer 0,13/03/2020,08:45:00
+INS191378,1,OSS.Highfield School (1958) (Held on Trust by WMDC) (EDUCATION OSSETT COMMUNITY TRUST),"53.696956, -1.583033",gas,34.01C,Gas Catering Servicing (Annual),Engineer 0,12/03/2020,13:31:00
+INS210283,1,OSS.Highfield School (1958) (Held on Trust by WMDC) (EDUCATION OSSETT COMMUNITY TRUST),"53.696956, -1.583033",gas,34.01A,Gas Servicing (Annual),Engineer 0,12/03/2020,12:31:00
+INS210286,1,OSS.Highfield School (1958) (Held on Trust by WMDC) (EDUCATION OSSETT COMMUNITY TRUST),"53.696956, -1.583033",gas,34.01A,Gas Servicing (Annual),Engineer 0,12/03/2020,11:31:00
+INS239615,1,OSS.Highfield School (1958) (Held on Trust by WMDC) (EDUCATION OSSETT COMMUNITY TRUST),"53.696956, -1.583033",gas,34.01A,Gas Servicing (Annual),Engineer 0,12/03/2020,10:31:00
+INS242553,1,OSS.Highfield School (1958) (Held on Trust by WMDC) (EDUCATION OSSETT COMMUNITY TRUST),"53.696956, -1.583033",gas,34.01A,Gas Servicing (Annual),Engineer 0,12/03/2020,09:31:00
+INS271988,0.5,OSS.Highfield School (1958) (Held on Trust by WMDC) (EDUCATION OSSETT COMMUNITY TRUST),"53.696956, -1.583033",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,12/03/2020,09:01:00
+INS252382,1,OSS.HIGHFIELD SCHOOL CARETAKERS HOUSE (Ossett Trust see notes),"53.696956, -1.583033",gas,34.01A,Gas Servicing (Annual),Engineer 0,12/03/2020,08:01:00
+INS252389,1,OYSTER PARK  CARETAKERS BUNGALOW (AIREDALE ACADEMIES TRUST),"53.728717, -1.306853",gas,34.01A,Gas Servicing (Annual),Engineer 0,11/03/2020,14:07:00
+INS260654,1,Pinderfields Hospital PRU - WRENTHORPE SITE (1102),"53.692673, -1.486522",gas,34.01D,Gas Catering Servicing (6 monthly),Engineer 0,11/03/2020,12:46:00
+INS252383,1,PON.Moorthorpe Primary (J&I) School (1819),"53.594299, -1.301121",gas,34.01A,Gas Servicing (Annual),Engineer 0,11/03/2020,11:19:00
+INS252384,1,PON.Moorthorpe Primary (J&I) School (1819),"53.594299, -1.301121",gas,34.01A,Gas Servicing (Annual),Engineer 0,11/03/2020,10:19:00
+INS252385,1,PON.Moorthorpe Primary (J&I) School (1819),"53.594299, -1.301121",gas,34.01A,Gas Servicing (Annual),Engineer 0,11/03/2020,09:19:00
+INS217098,1,PON.PONTEFRACT CASTLE VISITORS CENTRE & CAFE,"53.695523, -1.305798",gas,34.01A,Gas Servicing (Annual),Engineer 0,11/03/2020,08:01:00
+INS261205,1,PON.PONTEFRACT CASTLE VISITORS CENTRE & CAFE,"53.695523, -1.305798",gas,34.03,Flue Service (Annual),Engineer 0,10/03/2020,14:31:00
+INS262580,1,PON.PONTEFRACT CASTLE VISITORS CENTRE & CAFE,"53.695523, -1.305798",gas,34.01A,Gas Servicing (Annual),Engineer 0,10/03/2020,13:31:00
+INS272054,1,PON.PONTEFRACT CASTLE VISITORS CENTRE & CAFE,"53.695523, -1.305798",gas,34.01C,Gas Catering Servicing (Annual),Engineer 0,10/03/2020,12:31:00
+INS272055,1,PON.PONTEFRACT CASTLE VISITORS CENTRE & CAFE,"53.695523, -1.305798",gas,34.01A,Gas Servicing (Annual),Engineer 0,10/03/2020,10:02:00
+INS261325,1,PON.PONTEFRACT MARKET HALL,"53.692128, -1.311401",gas,34.01A,Gas Servicing (Annual),Engineer 0,10/03/2020,09:01:00
+INS261327,1,PON.PONTEFRACT MARKET HALL,"53.692128, -1.311401",gas,34.01A,Gas Servicing (Annual),Engineer 0,10/03/2020,08:01:00
+INS211947,4,PON.St. Helen's CE Primary School (Academy) PLAYING FIELDS(1835)(SCHOOL Not owned by WMDC),"53.609138, -1.363138",gas,34.01A,Gas Servicing (Annual),Engineer 0,09/03/2020,12:01:00
+INS242818,4,PON.St. Helen's CE Primary School (Academy) PLAYING FIELDS(1835)(SCHOOL Not owned by WMDC),"53.609138, -1.363138",gas,34.01A,Gas Servicing (Annual),Engineer 0,09/03/2020,08:01:00
+INS252369,1,WAK.HORBURY CARR LODGE PARK LODGE/HOUSE,"53.661685, -1.548646",gas,34.01A,Gas Servicing (Annual),Engineer 0,06/03/2020,13:36:00
+INS260651,1,WAK.Horbury St. Peters & Clifton CE Primary School (1918) (SCHOOL Not owned by WMDC),"53.682800, -1.503466",gas,34.01D,Gas Catering Servicing (6 monthly),Engineer 0,06/03/2020,12:31:00
+INS271986,0.5,WAK.Horbury St. Peters & Clifton CE Primary School (1918) (SCHOOL Not owned by WMDC),"53.682800, -1.503466",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,06/03/2020,09:22:00
+INS252373,1.2,WAK.Kettlethorpe High School (1951),"53.646705, -1.499313",gas,34.01A,Gas Servicing (Annual),Engineer 0,06/03/2020,08:01:00
+INS252375,1.2,WAK.Kettlethorpe High School (1951),"53.646705, -1.499313",gas,34.01A,Gas Servicing (Annual),Engineer 0,05/03/2020,14:37:00
+INS252377,1.2,WAK.Kettlethorpe High School (1951),"53.646705, -1.499313",gas,34.01A,Gas Servicing (Annual),Engineer 0,05/03/2020,13:25:00
+INS252378,1.2,WAK.Kettlethorpe High School (1951),"53.646705, -1.499313",gas,34.01A,Gas Servicing (Annual),Engineer 0,05/03/2020,12:13:00
+INS252379,1.2,WAK.Kettlethorpe High School (1951),"53.646705, -1.499313",gas,34.01A,Gas Servicing (Annual),Engineer 0,05/03/2020,11:01:00
+INS252380,1.2,WAK.Kettlethorpe High School (1951),"53.646705, -1.499313",gas,34.01A,Gas Servicing (Annual),Engineer 0,05/03/2020,09:49:00
+INS252381,1.2,WAK.Kettlethorpe High School (1951),"53.646705, -1.499313",gas,34.01A,Gas Servicing (Annual),Engineer 0,05/03/2020,08:37:00
+INS271987,0.6,WAK.Kettlethorpe High School (1951),"53.646705, -1.499313",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,05/03/2020,08:01:00
+INS212529,2.5,WAK.KING STREET 27,"53.683786, -1.501980",gas,34.01A,Gas Servicing (Annual),Engineer 0,04/03/2020,13:01:00
+INS212531,2.5,WAK.KING STREET 27,"53.683786, -1.501980",gas,34.01A,Gas Servicing (Annual),Engineer 0,04/03/2020,10:31:00
+INS233254,2.5,WAK.KING STREET 27,"53.683786, -1.501980",gas,34.01A,Gas Servicing (Annual),Engineer 0,04/03/2020,08:01:00
+INS252366,2.5,WAK.KING STREET 27,"53.683786, -1.501980",gas,34.01A,Gas Servicing (Annual),Engineer 0,03/03/2020,12:30:00
+INS260220,1,WAK.Kingsland School (1478),"53.719345, -1.461574",gas,34.01D,Gas Catering Servicing (6 monthly),Engineer 0,03/03/2020,09:01:00
+INS272072,0.5,WAK.Kingsland School (1478),"53.719345, -1.461574",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,03/03/2020,10:01:00
+INS252402,1,WAK.KINGSLAND SPECIAL SCH CARETAKERS BUNGALOW SITE,"53.719345, -1.461574",gas,34.01A,Gas Servicing (Annual),Engineer 0,03/03/2020,08:01:00
+INS271985,0.5,WAK.Netherton J&I School (1935),"53.648407, -1.575529",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,02/03/2020,14:16:00
+INS271989,0.5,WAK.Sandal Castle Community School (1459) (NOT WMDC OWNED),"53.656167, -1.485899",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,02/03/2020,13:36:00
+INS260653,1,WAK.St. Mary's CE Primary (J&I) School PLAYING FIELD (1423) (SCHOOL Not owned by WMDC),"53.680736, -1.487986",gas,34.01D,Gas Catering Servicing (6 monthly),Engineer 0,02/03/2020,12:31:00
+INS206681,1,WAK.SUN LANE LEISURE CENTRE AND CAFE (l/02985 merged with this site),"53.682381, -1.493220",gas,34.01B,Gas Servicing (6 monthly),Engineer 0,02/03/2020,10:04:00
+INS206683,1,WAK.SUN LANE LEISURE CENTRE AND CAFE (l/02985 merged with this site),"53.682381, -1.493220",gas,34.01B,Gas Servicing (6 monthly),Engineer 0,02/03/2020,09:04:00
+INS271984,0.5,WAK.THORNES PARK SPORTS HALL/TRACK,"53.676307, -1.513974",gas,34.02,Gas Shut Off Valve Service (3 monthly),Engineer 0,02/03/2020,08:30:00
