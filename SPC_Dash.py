@@ -4,7 +4,7 @@
 import pandas as pd
 
 # For now, get last 30 days DLO and Schedule for current and previous month
-Sch = pd.read_csv('https://github.com/walkerdj1995/spc-dash/blob/master/WFMarGasSchedule.csv')
+Sch = pd.read_csv('https://github.com//walkerdj1995//spc-dash//blob//master//WFMarGasSchedule.csv',sep=',')
 Dlo = pd.read_csv('https://github.com/walkerdj1995/spc-dash/blob/master/Last_30_Days.csv')
 
 # Merge on the scheduled jobs
